@@ -6,7 +6,8 @@
 คลิปรายงาน
 
 
-Dashboard 1
+Dashboard 1 :
 https://public.tableau.com/views/project_17480089263850/DashBoard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Dashboard 2
+
+Dashboard 2 :
 https://public.tableau.com/views/project_17480089263850/DashBoard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
